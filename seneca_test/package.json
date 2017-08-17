@@ -1,0 +1,14 @@
+{
+  "name": "seneca_test",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "seneca": "^3.4.2"
+  }
+}
