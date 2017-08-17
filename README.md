@@ -1,4 +1,5 @@
 # samtests
+Attempting to figure out the ideal way to work with SAM (Serverless Application Model) 
 ## claudia
 advantages: 
   * Less pretty than seneca 
